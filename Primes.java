@@ -20,6 +20,6 @@ public class Primes {
         }
         int perce= (count*100)/N;
         System.out.print("");
-        System.out.println("There are "+ count +" primes between 2 and "+N+" ("+perce+"%"+count+"are primes)");
+        System.out.println("There are "+ count +" primes between 2 and "+N+" ("+perce+"%"+count+" are primes)");
     }
 }
